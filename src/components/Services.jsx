@@ -19,10 +19,12 @@ const Services = () => {
           <img src={img1} alt="Item1" />
           <p className="legend">Full Stack</p>
         </div>
+
         <div>
           <img src={img2} alt="Item3" />
           <p className="legend">Peer-to-peer Support</p>
         </div>
+        
       </Carousel>
     </div>
   );
