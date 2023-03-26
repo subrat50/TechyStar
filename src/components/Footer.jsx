@@ -14,17 +14,15 @@ const Footer = () => {
           <a href="https://youtube.com/techStar" target={"blank"}>
             Youtube
           </a>
-          <a href="https://instagram.com/Ram" target={"blank"}>
+          <a href="" target={"blank"}>
             Instagram
           </a>
-          <a href="https://github.com/Ramgopal17/backendProjects" target={"blank"}>
+          <a href="https://github.com/subrat50" target={"blank"}>
             Github
           </a>
         </div>
-      
-
       </div>
-      <p>created by @RamGopal</p>
+      <p>created by @Subrat</p>
     </footer>
   );
 };
